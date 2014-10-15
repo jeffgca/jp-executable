@@ -1,0 +1,11 @@
+{
+  "name": "jp-executable",
+  "version": "0.0.1",
+  "description": "Port of executable, see https://github.com/kevva/executable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Griffiths",
+  "license": "MIT"
+}
